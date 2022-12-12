@@ -1,0 +1,21 @@
+.find__circle {
+  background-color: tomato;
+  display: flex;
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  position: absolute;
+  left: 65px;
+  bottom: 20px;
+  }
+
+.more__circle {
+    background-color: tomato;
+    display: flex;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px;
+    position: absolute;
+    left: 117px;
+    bottom: 20px;
+  }
